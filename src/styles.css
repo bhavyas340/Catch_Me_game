@@ -1,0 +1,22 @@
+body {
+  width: 100%;
+  height: 40%;
+  /* border: 3px solid black; */
+}
+/* .ctr {
+  width: 100%;
+  height: 100%;
+} */
+#app {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+  margin: 20px 20px 40px 20px;
+  color: white;
+  background-color: blueviolet;
+  display: block;
+  position: absolute;
+}
